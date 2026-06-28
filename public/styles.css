@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.cen {
+    text-align: center;
+}
+
+.bg {
+    background: url("https://res.cloudinary.com/dyyp9nzim/image/upload/v1740848773/hkvvpvo5aflvprbomtna.gif ");
+    height: 140vh;
+    background-size: cover;
+}
+
+.pad {
+    padding: 40px;
+}
+
+.h {
+    height: 100vh;
+}
+
+.tc {
+    color: white;
+    text-align: center;
+}
+
+.mar {
+    margin: 10px;
+}
+
+.h {
+    height: 100vh;
+}
+
+.maq {
+    background-color: pink;
+    color: red;
+    font-size: 30px;
+    background-size: cover;
+}
+
+.im {
+    height: 60vh;
+    background-size: cover;
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+}
+
+.img1 {
+    height: 50vh;
+    background-size: cover;
+}
+
+.ta {
+    text-align: center;
+}
+
+.img5 {
+    height: 590px;
+    background-size: cover;
+}
+
+.fs {
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.pa {
+    padding: 20px;
+}
+
+.mar1 {
+    margin: 20px;
+}
+
+.cu {
+    background-color: pink;
+    height: 40vh;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.img1 {
+    height: 50px;
+    background-color: lightblue;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.space {
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.back {
+    background-color: black;
+    width: 770px;
+    background-size: cover;
+}
+
+.marq {
+    background-color: pink;
+    color: red;
+    font-size: 30px;
+    width: 770px;
+    background-size: cover;
+}
+
+.bp2 {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
