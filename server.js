@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json());
 
 // MongoDB setup
-const url = "mongodb://127.0.0.1:27017";
+const url = "mongodb+srv://alwin:2005@cluster-1.i2utcif.mongodb.net/";
 const client = new MongoClient(url);
 
 let db;
@@ -130,7 +130,7 @@ Team AwnCart`
 
   } catch (err) {
     console.error("❌ Error:", err);
-    res.status(500).send("❌ Error inserting data or sending email user");
+    res.status(500).send("❌ Error inserting data or sending email");
   }
 });
 
