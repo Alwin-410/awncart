@@ -130,7 +130,7 @@ Team AwnCart`
 
   } catch (err) {
     console.error("❌ Error:", err);
-    res.status(500).send("❌ Error inserting data or sending email");
+    res.status(500).send("❌ Error inserting data or sending email user");
   }
 });
 
